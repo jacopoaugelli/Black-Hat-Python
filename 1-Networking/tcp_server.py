@@ -1,7 +1,5 @@
-from http import server
 import socket
 import threading
-from urllib import request
 
 IP = '0.0.0.0'
 PORT = 9998
